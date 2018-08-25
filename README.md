@@ -1,2 +1,2 @@
 # registreerimine
-.NET vanemprogrammeerija proovitöö Riigi Infosüsteemide Keskusele
+.NET vanemprogrammeerija proovitöö Riigi Infosüsteemide Keskusele.
